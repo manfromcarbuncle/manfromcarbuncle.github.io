@@ -1,91 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Carbuncle</title>
-  <meta name="author" content="Carbuncle">
-
-  
-  <meta name="description" content="Blogs age badly. Blog posts about currently fashionable Javascript libraries, tools and the like are out of date by the time you&rsquo;re out of the &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://manfromcarbuncle.github.io/">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Carbuncle" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="//fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="//fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Carbuncle</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="https://www.google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="manfromcarbuncle.github.io">
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">Blog</a></li>
-  <li><a href="/blog/archives">Archives</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
-  
-  
-  
-    <article>
-      
-  <header>
+  <title><![CDATA[Carbuncle]]></title>
+  <link href="http://manfromcarbuncle.github.io/atom.xml" rel="self"/>
+  <link href="http://manfromcarbuncle.github.io/"/>
+  <updated>2016-06-02T13:43:30+01:00</updated>
+  <id>http://manfromcarbuncle.github.io/</id>
+  <author>
+    <name><![CDATA[Carbuncle]]></name>
     
-      <h1 class="entry-title"><a href="/blog/2016/04/01/against-react/">Against React</a></h1>
-    
-    
-      <p class="meta">
-        
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
-
-
-
-<time class='entry-date' datetime='2016-04-01T13:50:00+01:00'><span class='date'><span class='date-month'>Apr</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2016</span></span> <span class='time'>1:50 pm</span></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>Blogs age badly. Blog posts about currently fashionable Javascript libraries, tools and the like are out of date by the time you&rsquo;re out of the first paragraph. Very well: <code>Number(new Date())</code> gives me 1459515057130. And as I write, the React bubble is inflated beyond all reason. Smarter programmers than me have had a go at pricking it, but I don&rsquo;t see why I shouldn&rsquo;t.</p>
+  
+  <entry>
+    <title type="html"><![CDATA[Against React]]></title>
+    <link href="http://manfromcarbuncle.github.io/blog/2016/04/01/against-react/"/>
+    <updated>2016-04-01T13:50:00+01:00</updated>
+    <id>http://manfromcarbuncle.github.io/blog/2016/04/01/against-react</id>
+    <content type="html"><![CDATA[<p>Blogs age badly. Blog posts about currently fashionable Javascript libraries, tools and the like are out of date by the time you&rsquo;re out of the first paragraph. Very well: <code>Number(new Date())</code> gives me 1459515057130. And as I write, the React bubble is inflated beyond all reason. Smarter programmers than me have had a go at pricking it, but I don&rsquo;t see why I shouldn&rsquo;t.</p>
 
 <p>This is going to be a negative article, if you couldn&rsquo;t tell already. I will anyway point out the obvious: that React is the product of some great engineering, that good products have been built with it, and that the community around it has a bunch of very smart people.</p>
 
@@ -244,68 +177,7 @@
 <p>Because the least tolerable JS framework is the least avoidable. I recently changed jobs, and was amazed to see how completely it&rsquo;s come to loom over the labour market. Lying recruiters, ever the bellwethers, are lying about working with React shops. It tires a man out to see stuff like the above JSX routespec passing without gasps of horror. That&rsquo;s why I&rsquo;m bitter. I thought I was young enough to avoid that kind of tentacled horror from the deep. But what is old is new again, and all that. And here I am - waiting for it to die.</p>
 
 <p>Bite me.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-    </article>
-  
-  <div class="pagination">
-    
-    <a href="/blog/archives">Blog Archives</a>
-    
-  </div>
-</div>
-<aside class="sidebar">
-  
-    <section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2016/04/01/against-react/">Against React</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-
-
-
-  
-</aside>
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2016 - Carbuncle -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = '//platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-  </script>
-
-
-
-
-
-</body>
-</html>
+</feed>
